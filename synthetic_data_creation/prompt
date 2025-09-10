@@ -1,0 +1,40 @@
+Create X data samples based on the following instructions:
+Each sample should include four sentences: 2 preceding sentences, 1 matching sentence
+including the seed word, and 1 trailing sentence.
+For each sample, use one of the seed words provided in the list: [REPLACE BY SEED WORD]. The
+sentence with the seed word should be in the third sentence in the sample.
+In one of the four sentences, the samples should include a reference to disambiguate the
+gender of a seed word.
+It should become obvious in one of the sentences which gender or genders the seed word
+refers to.
+Be creative, vary the topic and disambiguation strategies.
+Here are a few examples:
+
+Example 1
+seed word: athletes
+preceding sentences: The Olympic games have long been the dream competition for the
+athletic community. This year, Luna and Alex, who identify as non-binary individuals,
+participated in the Olympic games.
+matching sentence: The two athletes were thrilled to be part of this major competition.
+trailing sentence: Their families flew over to support and congratulate them in person.
+
+Example 2
+seed word: enthusiasts
+preceding sentences: Baker Street Babes is a Sherlockian group who host the web's first
+Sherlock Holmes podcast. There are eleven members of the group, a collective devoid of a
+president or a leader.
+matching sentence: They consider themselves "a bridge between older Sherlockians and young,
+tech-savvy enthusiasts" and they have been described as being "at the center of online
+Sherlock fandom."
+trailing sentence: The various all-male members of the group generate a podcast, blog, and
+Tumblr.
+
+Example 3
+seed word: specialists
+preceding sentences: In addition to the Army nurses, there were some recruits who served as
+US Navy and US Air Force nurses. Navy nurses played a crucial role in providing medical
+care in conflict zones, often facing significant risks in the line of duty.
+matching sentence: The first specialists of the Navy Nurse Corps arrived in Saigon in 1963,
+and were each awarded the Purple Heart after they were injured during the Christmas Eve
+1964 Brinks Hotel bombing in Saigon.
+trailing sentence: They were the first American females to be decorated with that award.
