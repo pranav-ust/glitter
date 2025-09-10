@@ -12,7 +12,7 @@ Each passage consists of four sentences: two as preceding context, one containin
 * If unambiguous, annotate spans that disambiguate the gender in any of the sentences (preceding, matching, or trailing)
 * Specify the seed's gender as either **feminine**, **masculine**, **non-binary**, **all genders**, or **feminine and masculine**
 
-For example, in the sentence "In theatrical performances the use of decorative electricity was used in costumes of **female performers**," the gender of the seed word 'performers' is disambiguated by the adjective `female`.
+For example, in the sentence "In theatrical performances the use of decorative electricity was used in costumes of _female performers_," the gender of the seed word 'performers' is disambiguated by the adjective `female`.
 
 Only the seed noun should be annotated (e.g., in "International Commission of Jurists" only "jurists" should be annotated as 'entity'). Nominal phrases containing the seed should be annotated as 'compounds'.
 
@@ -32,6 +32,8 @@ For German translations, annotators were asked to perform the following:
 * For masculine source: provide German translation in masculine form
 * For feminine source: provide German translation in feminine form
 * For non-binary/all genders/feminine and masculine/ambiguous sources, provide **three gender-fair alternatives**:
+
+
            1. Gender-neutral rewording
            2. Gender star (*) format
            3. Ens-forms
