@@ -29,11 +29,13 @@ For German translations, annotators were asked to perform the following:
 1. Fix major errors related to grammar, orthography, and semantics (not stylistic issues)
 2. If the gender of the seed was correctly translated, proceed to the next passage
 3. If the gender was incorrectly translated, provide appropriate alternatives:
-* For masculine source: provide German translation in masculine form
-* For feminine source: provide German translation in feminine form
-* For non-binary/all genders/feminine and masculine/ambiguous sources, provide **three gender-fair alternatives**:
+
+   
+   * For masculine source: provide German translation in masculine form
+   * For feminine source: provide German translation in feminine form
+   * For non-binary/all genders/feminine and masculine/ambiguous sources, provide **three gender-fair alternatives**:
 
 
-           1. Gender-neutral rewording
-           2. Gender star (*) format
-           3. Ens-forms
+     1. Gender-neutral rewording
+     2. Gender star (*) format
+     3. Ens-forms
