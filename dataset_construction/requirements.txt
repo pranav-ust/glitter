@@ -1,0 +1,21 @@
+# simple-generation
+# inflect
+# deep-translator
+python-dotenv
+openai
+mwparserfromhell
+nltk
+spacy>=3.5.0
+tenacity
+# deepl
+datatrove
+transformers
+datasets
+orjson
+fire
+hf_transfer
+pandas>=1.5.0
+matplotlib>=3.7.0
+inflect
+deepl
+vllm
